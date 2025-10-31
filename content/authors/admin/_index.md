@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: D!ego Fantinelli
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Diego
+last_name: Fantinelli
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: him
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Maths Teacher & Jazz Composer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
