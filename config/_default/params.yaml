@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: indigo
+  color: slate
 
 # SEO
 marketing:
@@ -32,10 +32,10 @@ header:
     enable: true
     block: 'navbar'
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'd!3g0 fantinelli'
 
 # Site footer
 footer:
@@ -49,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2 gen 2026'
+  time_format: '13:04:23 '
 
 # Site features
 features:

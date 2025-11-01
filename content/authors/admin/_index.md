@@ -23,29 +23,29 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Maths Teacher & Jazz Composer
+role: Math, jazz, and coffee — my kind of balance
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: I.I.S Remondini
+    url: https://www.remondini.net/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:diego.fantinelli@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://twitter.com/tweetmagus
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://github.com/jazzmagus
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/alexjohnsonai/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=alexjohnson
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
@@ -54,8 +54,8 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Ingegneria Gestionale
+    institution: Università di Padova
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
@@ -64,17 +64,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  # - area: MS Computer Science
+  #   institution: Carnegie Mellon University
+  #   icon: ""
+  #   date_start: 2013-09-01
+  #   date_end: 2015-05-31
+  #   summary: |
+  #     GPA: 4.0/4.0
+      #
+      # Specialized in machine learning and robotics.
+  - area: Jazz Saxophone
+    institution: Conservatorio di Trento
     icon: ""
     date_start: 2009-09-01
     date_end: 2013-05-31
@@ -169,4 +169,8 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+<!-- Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent. -->
+
+Diego Fantinelli insegna Matematica e Fisica alla Scuola Secondaria di Secondo Grado, ma non si limita mai alle formule: ama trasformarle in storie, esperimenti e buone domande. Tra un teorema e un laboratorio Python, cerca di far scoprire ai suoi studenti che la logica può essere poetica.
+
+Fuori dall’aula, si divide tra sassofono jazz, bicicletta e caffè rigorosamente preparato con metodo scientifico — tre passioni che, a modo loro, gli insegnano ritmo, equilibrio e concentrazione.
