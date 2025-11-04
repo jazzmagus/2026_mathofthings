@@ -4,7 +4,7 @@ subtitle: _esagerazioni e stupidità_
 summary: Esagerazioni e stupidità
 authors:
 - diego fantinelli
-tags: [itis, lesson, 2022]
+tags: [lesson, 2025]
 categories: [infos]
 date: "2022-03-21T00:21:00Z"
 featured: true
