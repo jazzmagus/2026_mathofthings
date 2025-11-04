@@ -78,17 +78,3 @@ O per chi esagera nella sostanza raccontando sbruffonate per piacere individuale
 
 > Queste le vere cifre: le altre erano **stupidaggini**.
 
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
