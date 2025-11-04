@@ -12,7 +12,7 @@ draft: false
 
 # links:
 #  - icon_pack: fab
-#    icon: 
+#    icon:
 #    name: SLIDES
 #    url: dunning_kruger_effect
 
@@ -24,7 +24,7 @@ image:
   focal_point: ""
   preview_only: false
 
-# slides: 
+# slides:
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -72,8 +72,23 @@ O per chi esagera nella sostanza raccontando sbruffonate per piacere individuale
 
 - Una delle esagerazioni preferite dagli organizzatori di un evento politico o musicale riguarda le folle oceaniche che vi partecipano.
 - Nell'ovale di Central Park, ad esempio, erano state dichiarate 250.000 persone per James Taylor nel 1979, 300.000 per Elton John nel 1980, 400.000 per Simon e Garfunkel nel 1981, 600.000 per Paul Simon da solo nel 1991, e <mark style="background: #BBFABBA6;">750.000 per Garth Brooks nel 1997</mark>.
-- Ma nel 2008, i poliziotti registrarono con i contapersone il numero esatto dei partecipanti a un concerto, nel quale ogni centimetro quadrato dell'ovale di Central Park era stipato, e ce n'erano solo 48.538. 
+- Ma nel 2008, i poliziotti registrarono con i contapersone il numero esatto dei partecipanti a un concerto, nel quale ogni centimetro quadrato dell'ovale di Central Park era stipato, e ce n'erano solo 48.538.
 
   - Poiché la superficie dell' ovale è di 52.610 metri quadrati, e circa un terzo dello spazio era coperto dal palco e da spazi transennati, la densità era poco più di una persona a metro quadro.
 
->Queste le vere cifre: le altre erano **stupidaggini**.
+> Queste le vere cifre: le altre erano **stupidaggini**.
+
+```markmap
+- Mindmaps
+  - Links
+    - [Hugo Blox Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
