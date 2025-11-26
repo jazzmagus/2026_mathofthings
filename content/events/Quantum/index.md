@@ -42,7 +42,9 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'https://2026conference.netlify.app/'
+links:
+  - type: slides
+    url: "https://2026conference.netlify.app/"
 url_video: ''
 
 # Markdown Slides (optional).
